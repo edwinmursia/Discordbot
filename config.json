@@ -1,0 +1,5 @@
+{
+    "DATABASE_USER": "myAdmin",
+    "ROLE": "admin",
+    "DATABASE_PASSWORD": "password"
+}
